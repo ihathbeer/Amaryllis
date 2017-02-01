@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Amaryllis_linux/Database.cs">
+    <Files>
+      <File FileName="Amaryllis_linux/Main.cs" Line="7" Column="36" />
+      <File FileName="Amaryllis_linux/Database.cs" Line="11" Column="134" />
+      <File FileName="Amaryllis_linux/Program.cs" Line="8" Column="2" />
+      <File FileName="Amaryllis_linux/IServer.cs" Line="42" Column="10" />
+      <File FileName="Amaryllis_linux/IPacket/RawPacket.cs" Line="417" Column="16" />
+      <File FileName="Amaryllis_linux/IPacket/Packet.cs" Line="1" Column="1" />
+      <File FileName="Amaryllis_linux/IPacket/XMLPacket.cs" Line="10" Column="37" />
+      <File FileName="Amaryllis_linux/INetwork.cs" Line="11" Column="20" />
+      <File FileName="Amaryllis_linux/StateObject.cs" Line="81" Column="1" />
+      <File FileName="Amaryllis_linux/IPacket/GameZone/Manager.cs" Line="134" Column="40" />
+      <File FileName="Amaryllis_linux/IPacket/GameZone/SledRace.cs" Line="262" Column="34" />
+      <File FileName="Amaryllis_linux/IPacket/GameZone/Mancala.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

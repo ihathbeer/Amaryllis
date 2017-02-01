@@ -1,0 +1,8 @@
+C:\Users\sy\Documents\Amaryllis\Amaryllis_LoginApplication\Amaryllis_LoginApplication\bin\Debug\Amaryllis_LoginApplication.exe
+C:\Users\sy\Documents\Amaryllis\Amaryllis_LoginApplication\Amaryllis_LoginApplication\bin\Debug\Amaryllis_LoginApplication.pdb
+C:\Users\sy\Documents\Amaryllis\Amaryllis_LoginApplication\Amaryllis_LoginApplication\obj\x86\Debug\Amaryllis_LoginApplication.csprojResolveAssemblyReference.cache
+C:\Users\sy\Documents\Amaryllis\Amaryllis_LoginApplication\Amaryllis_LoginApplication\obj\x86\Debug\Amaryllis_LoginApplication.exe
+C:\Users\sy\Documents\Amaryllis\Amaryllis_LoginApplication\Amaryllis_LoginApplication\obj\x86\Debug\Amaryllis_LoginApplication.pdb
+C:\Users\sy\Documents\Amaryllis\Amaryllis_LoginApplication\Amaryllis_LoginApplication\bin\Debug\MySql.Data.dll
+C:\Users\sy\Documents\Amaryllis\Amaryllis_LoginApplication\Amaryllis_LoginApplication\bin\Debug\System.Data.SQLite.dll
+C:\Users\sy\Documents\Amaryllis\Amaryllis_LoginApplication\Amaryllis_LoginApplication\bin\Debug\System.Data.SQLite.xml
